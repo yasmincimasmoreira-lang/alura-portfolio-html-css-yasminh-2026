@@ -1,1 +1,25 @@
+body{
+  background:#F52795;
+  strong{
+    color: darkblack;
+  }
+  h1{
+    color: black;
+    text-align: center;
+    span{
+      border: 1px solid blue;
+      }
+    p{
+      text-align: center;
+      span{
+       border: 1px solid black;
+        padding: 10px;
+      }
+    }
+    p{
+      text-aling: center;
+      strong{
+        color: blue;
+    }
+  }
 
